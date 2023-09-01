@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">App Mencao Alunos</string>
+    <string name="TextViewMediaAluno">Calcular Média de Alunos</string>
+    <string name="EditTextNota1">Digite a Nota1:</string>
+    <string name="EditTextNota2">Digite a Nota2:</string>
+    <string name="EditTextNota3">Digite a Nota3:</string>
+    <string name="EditTextNota4">Digite a Nota4:</string>
+</resources>
